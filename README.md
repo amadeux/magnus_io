@@ -1,4 +1,4 @@
-magnus_skyfire
+magnus IO
 ==============
 
-Interactive mobile flash game
+Interactive Memory game for mobile
